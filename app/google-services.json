@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "191796271925",
+    "firebase_url": "https://policeappforward.firebaseio.com",
+    "project_id": "policeappforward",
+    "storage_bucket": "policeappforward.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191796271925:android:2cba0a9ee3dfbc55",
+        "android_client_info": {
+          "package_name": "com.example.vian.policeappforward"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191796271925-h5mi80gkpjcfq9lqnberjq9e41g6132f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vian.policeappforward",
+            "certificate_hash": "c79c350b6773e1d763df6ccf75e236bdf2d2ffb7"
+          }
+        },
+        {
+          "client_id": "191796271925-htdmgp3t8j5oq3o5kel9986tkhmbbaod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWgfpdJKnpaOarsnekF6ACqidOllfleEg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191796271925-htdmgp3t8j5oq3o5kel9986tkhmbbaod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191796271925:android:31c46b26f0c58ca9",
+        "android_client_info": {
+          "package_name": "com.example.vian.policerecording"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191796271925-imuqhc3uhbk5cevaelokutbkien204c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vian.policerecording",
+            "certificate_hash": "c79c350b6773e1d763df6ccf75e236bdf2d2ffb7"
+          }
+        },
+        {
+          "client_id": "191796271925-htdmgp3t8j5oq3o5kel9986tkhmbbaod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWgfpdJKnpaOarsnekF6ACqidOllfleEg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191796271925-htdmgp3t8j5oq3o5kel9986tkhmbbaod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PoliceRecords</string>
+    <string name="login_page_logo">Logo for login</string>
+    <string name="cases">Report A Case</string>
+    <string name="case_title">Case Title</string>
+    <string name="arranger">Report Case</string>
+    <string name="offense">Name of offender</string>
+    <string name="car">Number plate</string>
+</resources>
